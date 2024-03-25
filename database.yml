@@ -1,0 +1,8 @@
+development:
+  dialect: mysql
+  database: db_latihan_pbp
+  username: root
+  password:
+  host: localhost
+  port: 3306
+
